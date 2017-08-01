@@ -1,0 +1,19 @@
+body{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.jumbotron{
+    background:#808000;
+    height:250px;
+}
+.jumbotron img{
+    width:50%;
+    float:left;
+    max-height:160px;
+}
+
+#add-btn{
+  color: gray;
+  background: green;
+}
